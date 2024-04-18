@@ -8,6 +8,7 @@ TagManager:
   - npc
   - key
   - door
+  - menuLoader
   layers:
   - Default
   - TransparentFX
