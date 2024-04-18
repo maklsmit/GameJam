@@ -10,11 +10,11 @@ Objective: Collect keys and escape the house.
 Game-play instructions: Use W,A,S,D to move. Use spacebar to change gravity. Any other interaction is by running into the object.
 
 ## Impediments
-Struggles or surprises you encountered during the development of the game
+Struggled with colliders
 
 ## Implementation
-Features
-Assets, or resources used
+Music
+Student-created assets
 
 ## References
 
@@ -22,6 +22,7 @@ Textures from: https://freepbr.com/
 Models and animations from: Mixamo.com
 
 ## Future Development
+Extra levels, sound effects
 
 # Created by: Awesome Group
 Makena Smith: Most programming
