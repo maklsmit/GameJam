@@ -2,11 +2,12 @@
 MSCH-C220 Game Jam, April 2024
 
 ## Theme
-How you thought about or interpreted the theme
+We interpreted the theme by allowing the player to reverse gravity.
 
 ## Game Play
-Objective
-Game-play instructions
+Objective: Collect keys and escape the house.
+
+Game-play instructions: Use W,A,S,D to move. Use spacebar to change gravity. Any other interaction is by running into the object.
 
 ## Impediments
 Struggles or surprises you encountered during the development of the game
