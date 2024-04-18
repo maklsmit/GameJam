@@ -28,6 +28,6 @@ Makena Smith: Most programming
 
 Talli Cline: Level design, asset design
 
-Shelia Hernandez: asset design
+Shelia Hernandez: Asset design
 
-Haifa Mohamed: texture/material design, UI design
+Haifa Mohamed: Texture/material design, UI design
